@@ -1,0 +1,12 @@
+.gradle/
+build/
+**/build/
+*.run
+
+# Local
+local.properties
+
+# Misc
+.DS_Store
+*.orig
+.idea/
